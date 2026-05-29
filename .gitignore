@@ -1,0 +1,24 @@
+# Unreal
+/Binaries
+/Build
+/DerivedDataCache
+/Intermediate
+/Platforms
+/Saved
+
+# Local
+/Local
+/Content/Local
+
+# Plugins
+/Plugins/*/Build
+/Plugins/*/Binaries
+/Plugins/*/Intermediate
+
+# IDE
+.idea/
+.vs/
+.vsconfig
+*.sln
+*.htm
+*.user
